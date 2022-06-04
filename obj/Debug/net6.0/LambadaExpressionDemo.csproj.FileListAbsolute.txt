@@ -1,0 +1,30 @@
+D:\manasi\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.exe
+D:\manasi\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.deps.json
+D:\manasi\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.runtimeconfig.json
+D:\manasi\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.dll
+D:\manasi\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.pdb
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.csproj.AssemblyReference.cache
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.AssemblyInfoInputs.cache
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.AssemblyInfo.cs
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.csproj.CoreCompileInputs.cache
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.dll
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\refint\LambadaExpressionDemo.dll
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.pdb
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.genruntimeconfig.cache
+D:\manasi\LambadaExpressionDemo\obj\Debug\net6.0\ref\LambadaExpressionDemo.dll
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.exe
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.deps.json
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.runtimeconfig.json
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.dll
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\bin\Debug\net6.0\LambadaExpressionDemo.pdb
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.csproj.AssemblyReference.cache
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.AssemblyInfoInputs.cache
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.AssemblyInfo.cs
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.csproj.CoreCompileInputs.cache
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.dll
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\refint\LambadaExpressionDemo.dll
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.pdb
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\LambadaExpressionDemo.genruntimeconfig.cache
+D:\LambadaExpressionDemo (1)\LambadaExpressionDemo\obj\Debug\net6.0\ref\LambadaExpressionDemo.dll
